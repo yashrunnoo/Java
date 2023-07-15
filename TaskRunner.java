@@ -1,19 +1,21 @@
 import java.util.Random;
 
+//Main Class
 public class TaskRunner {
     public static void main(String[] args) {
-        Task1 task1 = new Task1();
-        Task2 task2 = new Task2();
+        firstTask firstTask = new firstTask();
+        secondTask secondTask = new secondTask();
 
-        Thread t1 = new Thread(task1);
-        Thread t2 = new Thread(task2);
+        Thread thread1 = new Thread(firstTask);
+        Thread thread2 = new Thread(secondTask);
 
-        t1.start();
-        t2.start();
+        thread1.start();
+        thread2.start();
     }
 }
 
-class Task1 implements Runnable {
+//First task
+class firstTask implements Runnable {
     public void run() {
         for (int i = 0; i < 100; i++) {
             System.out.println("Hello World");
@@ -26,10 +28,11 @@ class Task1 implements Runnable {
     }
 }
 
-class Task2 implements Runnable {
+//Second task
+class secondTask implements Runnable {
     public void run() {
         Random random = new Random();
-        for (int i = 0; i < 100; i++) {
+        for (int i = 1; i <= 100; i++) {
             int randomNumber = random.nextInt(140) + 110;
             System.out.println(randomNumber);
             try {

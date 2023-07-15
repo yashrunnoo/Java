@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e30208b5-b7ab-4b4b-af7a-f1e35e5a4ed1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CAT2Practice/CAT2Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesChallenge/ClassesChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesChallenge/out/production/ClassesChallenge/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesChallenge/out/production/ClassesChallenge/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesChallenge/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesChallenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesPart1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesPart1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesPart1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesPart1/ClassesPart1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesPart1/out/production/ClassesPart1/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesPart1/out/production/ClassesPart1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesPart1/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesPart1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/ConstructorChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/out/production/ConstructorChallenge/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/out/production/ConstructorChallenge/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DA/DA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DA/Program_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 31/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 31/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 31/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 31/Exercise 31.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 31/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 31/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 33/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 33/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 33/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 33/Exercise 33.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 33/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise 33/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise30/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise30/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise30/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise30/Exercise30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise30/out/production/Exercise30/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise30/out/production/Exercise30/SimpleCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise30/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise30/src/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise32/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise32/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise32/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise32/Exercise32.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise32/out/production/Exercise32/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise32/out/production/Exercise32/Wall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise32/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise32/src/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI1 LAB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI1 LAB/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI1 LAB/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI1 LAB/GUI1 LAB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI1 LAB/out/production/GUI1 LAB/Explanation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI1 LAB/out/production/GUI1 LAB/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI1 LAB/src/Explanation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI1 LAB/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuessTheNumberGame/GuessTheNumberGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hack/Hack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Challenge39.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/FirstClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/Challenge39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/Inheritance Challenge Part1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/out/production/Inheritance Challenge Part1/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/out/production/Inheritance Challenge Part1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/out/production/Inheritance Challenge Part1/SalariedEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/out/production/Inheritance Challenge Part1/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/src/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Challenge Part1/src/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/src/GenericsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Hackathon/Java Hackathon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/Java Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/out/production/Java Learning/com/company/CWH_05_TakingInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/out/production/Java Learning/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/src/com/company/CWH_05_TakingInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Learning/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaChallenge/JavaChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POJO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POJO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POJO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POJO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POJO/POJO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POJO/out/production/POJO/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POJO/out/production/POJO/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POJO/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POJO/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PojoAgain/src/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swing/Swing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swing/Swing/NumberConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheObjectClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheObjectClass/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheObjectClass/PrimarySchoolStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheObjectClass/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consChallenge2/consChallenge2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../files/files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hacka/hacka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetwo/onetwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetwo/src/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yashda/yashda.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QTt8hjihlP5t2wGpoKG8AyzCaA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e30208b5-b7ab-4b4b-af7a-f1e35e5a4ed1" name="Changes" comment="" />
+      <created>1685389243258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685389243258</updated>
+    </task>
+    <servers />
+  </component>
+</project>
